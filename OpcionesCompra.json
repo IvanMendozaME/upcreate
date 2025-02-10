@@ -1,0 +1,20 @@
+{
+    "Costumize":{
+        "Suscripcion Mensual": "300",
+        "Carrito de compras": "1000",
+        "Seccion extra": "200" 
+
+    },
+
+    "Paquetes": {
+        "Paquete1":{
+            "Diseño Web, Feature responsivo, hospejade y domino por un año, cuentas de correo de empresa y capasitación ": "1000"
+        }, 
+        "Paquete2":{
+            "Paquete1 + 8 secciones y galeria ": "2000"
+        }, 
+        "Paquete3":{
+            "Paquete1 + 10 secciones, 10 productos y carrito de compras ": "3000"
+        }
+    }
+}
